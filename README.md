@@ -11,10 +11,12 @@
 # Second Step 
 * In the initial pipeline construction stage, our data team determined that it was more efficient to store it as an Excel than as a pickle file, so we changed the format one more time. I changed the code a little and saved each feature as an Excel file by using openpyxl library as shown in **Figure 2** below. I sequentially stored ID number, hospital, doctor's name, and major for general information and always desingate fixed ID number to differntiate other features to establish the format. 
 
-![image](https://user-images.githubusercontent.com/89524942/146483789-83b40b56-deb7-4687-b755-3f2b0035b110.png)
+![image](https://user-images.githubusercontent.com/89524942/146485174-c1b8ee29-3e40-4cf0-b233-ed9b52986fd2.png)
 
-(**Figure 2**. Samsung University Hospital's General Information)
+(**Figure 2**. Samsung University Hospital's general information)
  
  * **Figure 3** suggests that ID number is always fixed in the first column, so that it is convenient to search for doctor's profile accordingigly. In case of degree, we can confirm information by categorizing the beginning year and the end year in second and third column, respectively. Besides degree, career, Institute activity, awards, and the paper can also be created as this structure. 
 
 ![image](https://user-images.githubusercontent.com/89524942/146485087-b3fba888-37da-4beb-b1e3-0999a4eb40f5.png)
+
+(**Figure 3**. Samsung University Hospital's degree)

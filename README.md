@@ -20,3 +20,16 @@
 ![image](https://user-images.githubusercontent.com/89524942/146485087-b3fba888-37da-4beb-b1e3-0999a4eb40f5.png)
 
 (**Figure 3**. Samsung University Hospital's degree)
+
+# Final Step 
+* Like Samsung Seoul hospital, I created crawling program to store doctor's data of other hospitals in excel. Because each hospital has differnt HTML strctures, the code varies dependent upon the site's HTML tag and attributes. 
+* As shown below in **Figure 4** and **Figure 5**, the algorithm may be similar but the code itself should be altered based on the site's HTML tag and attribute. Furthermore, we had to manually deal with some unclean data that cannot be cleaned by the coding to store in excel. 
+
+![image](https://user-images.githubusercontent.com/89524942/146636588-69c5e18f-378f-4169-b333-f21ff74dbbc6.png)
+
+(**Figure 4**. Samsung University Hospital's degree)
+
+![image](https://user-images.githubusercontent.com/89524942/146636598-51f729cb-8213-4a19-9ba6-0dc427273c3b.png)
+
+(**Figure 5**. Incheon St.Mary Hospital )
+
